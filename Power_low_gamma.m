@@ -2,6 +2,7 @@ function [fimg] = Power_low_gamma(img,gamma_value)
   
   [H,W,L] = size(img);
   img = im2double(img);
+%hello world
   
   newimg = zeros(H,W,L);
   newimg = im2double(newimg);
