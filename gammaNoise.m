@@ -1,6 +1,7 @@
 function [ new_img ] = gammaNoise( img,a,b  )
 
 %img=double(img);
+%hello
 [h ,w, l]=size(img);
 for k=1:l
     for i=1:255
