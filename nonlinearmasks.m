@@ -20,7 +20,7 @@ function [newimg] = nonlinearmasks(img,m,filter_type)
            end
        end
   end
-  
+  %islam reda
 %LET THE WINDOW BE AN ARRAY
 %STORE THE n-by-n NEIGHBOUR VALUES IN THE ARRAY
 %SORT AND FIND THE MIDDLE ELEMENT
