@@ -1,3 +1,4 @@
+%mohamed magdy make this file
 function [newimg] = SaltAndPapperNoise(img, Ps, Pp)
   
    [H,W,L]=size(img);
