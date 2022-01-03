@@ -1,3 +1,4 @@
+% mohamed magdy make this file
 % eq = (((Smax-Smin)/(Rmax-Rmin))*(R-Rmin))+Smin
 
 function [fimg] = rgb_or_gray_stretching(img,Smin ,Smax)
