@@ -1,3 +1,4 @@
+%mohamed magdy make this file
 function [newimg] = UniformNoise(img , a ,b)
 % a,b represent gray levels [1-255]
 
