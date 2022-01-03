@@ -1,3 +1,4 @@
+% mohamed magdy make this file
 function [fimg] = rgb2binary_f(img,range)
 
   [H,W,L] = size(img);
