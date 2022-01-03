@@ -1,3 +1,4 @@
+% mohamed magdy make this file
 % RGB --> Peppers.png
 
 function [gray] = rgb2gray_f( rgb_im )
