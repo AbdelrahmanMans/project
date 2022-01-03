@@ -3,7 +3,7 @@ function [ fimage ] = correlation( img,mask )
 [H W L]=size(img);
 [m n]=size(mask);
 fimage=zeros(H,W,L);
-%mask=(1/(m*n))*ones(m*n);
+
 
 row=(m-1)/2;
 col=(n-1)/2;
