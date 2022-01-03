@@ -1,4 +1,4 @@
-
+%mohamed magdy make this file
 function [fimg] = rgb_or_gray__brightness(img, op, num)
     
     [H, W, L]=size(img);
