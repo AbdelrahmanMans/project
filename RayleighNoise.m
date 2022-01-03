@@ -15,7 +15,7 @@ function [newimg] = RayleighNoise(img , a ,b)
            end
        end
    end
-   %newimg = mat2gray(img);
+   
    newimg =rgb_or_gray_stretching(img,0,255);
    
 end
