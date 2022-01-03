@@ -16,6 +16,7 @@ function [newimg] = ExponentialNoise(img , a)
        end
    end
    %newimg = mat2gray(img);
+%hello world
    newimg =rgb_or_gray_stretching(img,0,255);
    
 end
