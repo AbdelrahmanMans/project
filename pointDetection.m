@@ -7,6 +7,8 @@ fimage=zeros(H,W,L);
 
 row=(m-1)/2;
 col=(n-1)/2;
+%hello
+
 
 
 img2=zeros(H+row*2,W+col*2,L);
